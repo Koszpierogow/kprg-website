@@ -1,0 +1,102 @@
+.main-text {
+	color:white;
+	text-align: center;
+	font-size: 45px;
+	letter-spacing: 2px;
+}
+
+h4 {
+	color:white;
+	font-size:20px;
+	text-align: center;
+	text-shadow: 6px 3px 5px gray;
+}
+
+
+h1 {
+	text-shadow: 3px 2px 1px green;
+}
+
+p {
+	color:white;
+	font-size:20px;
+	text-align: center;
+	text-shadow: 6px 3px 5px gray;
+}
+
+.nav {	display:block;
+	text-align: center;	font-size: 30px;
+	margin-left:-1.2em;
+	margin-right:0.96em;
+	padding-top: 180px;
+	padding-bottom: 20px;	letter-spacing: 4px;}
+
+.art {
+	display:inline-block;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 4px;
+}
+
+.socials {
+	display:inline-block;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 4px;
+}
+
+.music {
+	display:inline-block;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 4px;
+}
+
+.projects {
+	display:inline-block;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 4px;
+}
+
+
+img {
+	float: right;
+	margin-right: 500px;
+	height: 25%;
+	width: 25%;
+}
+a {
+	list-style-type: none;
+	text-decoration: none;
+	color:white;
+	border: 2px solid rgb(255,0,0);
+	border-radius:10px;
+	border-height: 20%;
+}
+
+body {
+	background: url("resources/bg.png");
+}
+a:hover {
+  color:gray;
+  cursor: url("resources/kursor-strona.png"), auto;
+}
+a:link {
+  color:white;
+  cursor: url("resources/kursor-strona.png"), auto;
+}
+
+a:visited {
+  color:white;
+  cursor: url("resources/kursor-strona.png"), auto;
+}
+
+a:active {
+  color: gray;
+  cursor: url("resources/kursor-strona.png"), auto;
+}
+
+html {
+  cursor: url("resources/kursor-strona.png"), auto;
+}
