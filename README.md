@@ -9,5 +9,4 @@ This project is focused on creating a personal website.
     changed in any day. If you want to know in what stage there's site<p>
     <br>
 
-<a href="https://kprg.neocities.org/#status">Click here!</a>
 <p>My code is 100% free to use, as long you'll not just creating your own website that looks 1:1 like mine
